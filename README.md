@@ -89,4 +89,8 @@
   </a>
 </div>
 
+<div align="center" style="margin-top: 25px;">
+  <img align="center" height="150" src="https://media1.tenor.com/m/BcVGTaZaNccAAAAd/debian-linux.gif" alt="debian power" />
+</div>
+
 </div>
