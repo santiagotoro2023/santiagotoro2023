@@ -2,7 +2,7 @@
 
 <div style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: white;">
 
-<h2 align="left">Hi 👋! My name is Santiago and I'm a System Engineer from Switzerland 🇨🇭</h2>
+<h2 align="center">Hi 👋! My name is Santiago and I'm a System Engineer from Switzerland 🇨🇭</h2>
 
 ###
 
@@ -55,6 +55,29 @@
 </div>
 
 ###
+
+### ✨ Fun Facts ⚡
+
+- 🐧 **Debian + nano**. I like my OS stable and my editor *merciful*.  
+- ☕ **Coffee is my primary scripting language.**  
+- 🤯 **YAML:** where one space can ruin your entire weekend.  
+- 📉 I don’t delete files. I `rm -rf /` them out of existence like a responsible adult.  
+- 🛠️ **Linux doesn’t crash.** It politely reminds you that *you* crashed it.
+
+---
+
+### 💡 What I Like
+
+- 🧑‍🏫 I love teaching people stuff — whether they asked or not.  
+- 🎙️ Talking? Yes. Rambling about tech? Absolutely. Overexplaining with enthusiasm? That’s my default mode.  
+- 📝 Documentation is my love language. If it’s not documented, did it even happen?  
+- 🐳 Docker and virtualization are my happy place. Spinning up containers like it’s a hobby (because it *is*).  
+- ☸️ Kubernetes and OpenShift are fantastic… until they make me question all my life choices.  
+- 🧪 I test everything in my homelab — including things no one asked for and no one will ever use.  
+  *(It’s a noble tradition, conducted in the sacred basement HP tower shrine.)*  
+- 🛠️ My homelab has seen more experiments than a mad scientist's garage. And yes, it's all backed up… probably.
+
+---
 
 <div align="left" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/santiago-toro-58642b360/" target="_blank">
