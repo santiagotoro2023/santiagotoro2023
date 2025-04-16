@@ -58,12 +58,12 @@
 
 ### ✨ Fun Facts ⚡
 
-- 🐧 **Debian + nano**. I like my OS stable and my editor *merciful*.
+- 🐧 Debian + nano. I like my OS stable and my editor *merciful*.
 - 🧠 Tried learning vi once. Still stuck in insert mode. Send help.
-- ☕ **Coffee is my primary scripting language.**  
-- 🤯 **YAML:** where one space can ruin your entire weekend.  
+- ☕ Coffee is my primary scripting language.  
+- 🤯 YAML: where one space can ruin your entire weekend.  
 - 📉 I don’t delete files. I `rm -rf /` them out of existence like a responsible adult.  
-- 🛠️ **Linux doesn’t crash.** It politely reminds you that *you* crashed it.
+- 🛠️ Linux doesn’t crash. It politely reminds you that *you* crashed it.
 
 ---
 
