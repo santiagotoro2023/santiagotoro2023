@@ -2,7 +2,9 @@
 
 <div style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: white;">
 
-<h2 align="center">Hi 👋! My name is Santiago and I'm a System Engineer from Switzerland 🇨🇭</h2>
+<h3 align="center">Hi 👋! My name is Santiago and I'm a System Engineer from Switzerland 🇨🇭</h3>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santiagotoro2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false" height="150" alt="stats graph"  />
