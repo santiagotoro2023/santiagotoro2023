@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+---
 <div align="center" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
@@ -47,12 +47,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
 </div>
 
+---
+
 ###
 
 <div align="center" style="margin-top: 25px;">
   <img align="center" height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" alt="penguin typing" />
   <p style="margin-top: 10px; font-style: italic;">"Hacking away happily on my Linux box 🐧💻"</p>
 </div>
+
+---
 
 ###
 
@@ -88,6 +92,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+
+---
 
 <div align="center" style="margin-top: 25px;">
   <img align="center" height="150" src="https://media1.tenor.com/m/BcVGTaZaNccAAAAd/debian-linux.gif" alt="debian power" />
