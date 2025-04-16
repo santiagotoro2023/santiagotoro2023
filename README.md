@@ -43,7 +43,6 @@
 </div>
 
 ###
-<br clear="both">
 <img align="center" height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif"  />
 
 ###
