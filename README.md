@@ -92,13 +92,9 @@
 ---
 
 <div align="center" style="margin-top: 25px;">
-  <img align="center" height="100" src="https://media1.tenor.com/m/BcVGTaZaNccAAAAd/debian-linux.gif" alt="debian power" />
+  <img align="center" height="85" src="https://media1.tenor.com/m/BcVGTaZaNccAAAAd/debian-linux.gif" alt="debian power" />
 </div>
 
 </div>
 
 ---
-
-<div align="center" style="margin-top: 25px;">
-  ![Santiago's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=santiagotoro2023&theme=github&area=true&hide_border=true)
-</div>
