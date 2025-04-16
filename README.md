@@ -100,5 +100,5 @@
 ---
 
 <div align="center" style="margin-top: 25px;">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=santiagotoro2023&theme=white&area=true&hide_border=true" width="100%" />
+  ![Santiago's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=santiagotoro2023&theme=github&area=true&hide_border=true)
 </div>
