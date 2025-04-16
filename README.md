@@ -62,6 +62,5 @@
 
 <br clear="both">
 
-<img src="https://github.com/santiagotoro2023/santiagotoro2023/snake.svg" alt="Snake animation" />
 
 ###
